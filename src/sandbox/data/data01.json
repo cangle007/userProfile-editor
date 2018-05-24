@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "viewStyle": "popup"
+  },
+  {
+    "id": 2,
+    "viewStyle": "popup"
+  },
+  {
+    "id": 3,
+    "viewStyle": "inline"
+  }
+]
